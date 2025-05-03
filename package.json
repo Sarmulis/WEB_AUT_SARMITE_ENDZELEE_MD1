@@ -1,0 +1,23 @@
+{
+  "name": "web_aut_sarmite_endzelee_md1",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarmulis/WEB_AUT_SARMITE_ENDZELEE_MD1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarmulis/WEB_AUT_SARMITE_ENDZELEE_MD1/issues"
+  },
+  "homepage": "https://github.com/Sarmulis/WEB_AUT_SARMITE_ENDZELEE_MD1#readme",
+  "devDependencies": {
+    "cypress": "^14.3.2"
+  }
+}
